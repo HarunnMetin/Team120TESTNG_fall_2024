@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00334e43-e0cd-441e-96e7-0db3fedbd723" name="Changes" comment="" />
+    <list default="true" id="00334e43-e0cd-441e-96e7-0db3fedbd723" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day15_TestNG_framework/C02_dependsOfMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utulites/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +22,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2fVsvqEsXdXOLmrSePfm8CZUJJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C02_dependsOfMethod.amazonTest">
     <configuration name="C01_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
       <extension name="coverage">
@@ -45,8 +55,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C02_dependsOfMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team120TESTNG_fall_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day15_TestNG_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day15_TestNG_framework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day15_TestNG_framework.C02_dependsOfMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_dependsOfMethod.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team120TESTNG_fall_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day15_TestNG_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day15_TestNG_framework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day15_TestNG_framework.C02_dependsOfMethod" />
+      <option name="METHOD_NAME" value="amazonTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_dependsOfMethod.ilkUrunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team120TESTNG_fall_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day15_TestNG_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day15_TestNG_framework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day15_TestNG_framework.C02_dependsOfMethod" />
+      <option name="METHOD_NAME" value="ilkUrunTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_dependsOfMethod.nutellaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team120TESTNG_fall_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day15_TestNG_framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day15_TestNG_framework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day15_TestNG_framework.C02_dependsOfMethod" />
+      <option name="METHOD_NAME" value="nutellaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_dependsOfMethod.amazonTest" />
+        <item itemvalue="TestNG.C02_dependsOfMethod" />
+        <item itemvalue="TestNG.C02_dependsOfMethod.ilkUrunTest" />
+        <item itemvalue="TestNG.C02_dependsOfMethod.nutellaTest" />
         <item itemvalue="TestNG.C01_Priority" />
       </list>
     </recent_temporary>
