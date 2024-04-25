@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00334e43-e0cd-441e-96e7-0db3fedbd723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day16_TestNG_framework/C02_PageClassKullanimi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Day16_TestNG_framework/C01_DriverClassKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Day16_TestNG_framework/C01_DriverClassKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Day16_TestNG_framework/C03_FacebookTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Day16_TestNG_framework/C03_FacebookTesti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utulites/ReusableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utulites/ReusableMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C02_PageClassKullanimi">
+  <component name="RunManager" selected="TestNG.C03_FacebookTesti.facebookTest">
     <configuration name="C01_DriverClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
       <extension name="coverage">
@@ -108,17 +107,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_dependsOfMethod.nutellaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FacebookTesti.facebookTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.Day15_TestNG_framework.*" />
+          <option name="PATTERN" value="tests.Day16_TestNG_framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.Day15_TestNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.Day15_TestNG_framework.C02_dependsOfMethod" />
-      <option name="METHOD_NAME" value="nutellaTest" />
+      <option name="PACKAGE_NAME" value="tests.Day16_TestNG_framework" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day16_TestNG_framework.C03_FacebookTesti" />
+      <option name="METHOD_NAME" value="facebookTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C03_FacebookTesti.facebookTest" />
         <item itemvalue="TestNG.C02_PageClassKullanimi" />
         <item itemvalue="TestNG.C01_DriverClassKullanimi" />
         <item itemvalue="TestNG.C02_dependsOfMethod" />
         <item itemvalue="TestNG.C02_dependsOfMethod.ilkUrunTest" />
-        <item itemvalue="TestNG.C02_dependsOfMethod.nutellaTest" />
       </list>
     </recent_temporary>
   </component>

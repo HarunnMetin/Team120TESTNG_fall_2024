@@ -2,16 +2,12 @@ package utulites;
 
 public class ReusableMethod {
 
-    public static void bekle(int saniye) throws InterruptedException {
+    public static void bekle(int saniye) {
 
         try {
-
             Thread.sleep(saniye*1000);
-
-        }catch (NullPointerException e){
-
-            throw e;
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
-
     }
 }

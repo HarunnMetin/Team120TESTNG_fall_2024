@@ -15,6 +15,8 @@ public class FacebookPage {
     public WebElement emailKutusu;
     @FindBy(xpath = "//input[@id='pass']")
     public WebElement passwordKutusu;
-    @FindBy(xpath = "//a[@id='u_0_0_St']")
+    @FindBy(xpath = "//a[@class='_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy']")
     public WebElement yeniHesapOlusturButonu;
+    @FindBy(xpath = "//button[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy']")
+    public WebElement loginButonu;
 }
