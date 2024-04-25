@@ -2,9 +2,11 @@ package tests.Day16_TestNG_framework;
 
 import com.github.javafaker.Faker;
 import org.openqa.selenium.Keys;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.FacebookPage;
 import utulites.Driver;
+import utulites.ReusableMethod;
 
 import static utulites.ReusableMethod.bekle;
 
@@ -34,5 +36,11 @@ public class C03_FacebookTesti {
         //3- Faker class’ini kullanarak email ve sifre
         //degerlerini yazdirip, giris butonuna basin
         //4- Basarili giris yapilamadigini test edin
+
+        Assert.assertTrue(facebookPage.girisYapilamadiElementYazisi.isDisplayed());
+
+
+        ReusableMethod.tumSayfaFotografiCek("facebook");
+        Driver.closeDriver();
     }
 }

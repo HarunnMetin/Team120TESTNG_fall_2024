@@ -19,4 +19,6 @@ public class FacebookPage {
     public WebElement yeniHesapOlusturButonu;
     @FindBy(xpath = "//button[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy']")
     public WebElement loginButonu;
+    @FindBy(xpath = "//div[@class='_9ay7']")
+    public WebElement girisYapilamadiElementYazisi;
 }
