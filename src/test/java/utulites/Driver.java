@@ -20,6 +20,12 @@ public class Driver {
      driver olusturma ve kapatma islemlerini yapmayi tercih etmistir
      */
 
+    private Driver(){
+
+        //bu constructor default constructor ile ayni isleviyapan parametresiz constructordur.
+        //buna erisimi kontrol edebilecegimiz icin bu constructoru olusturduk.
+
+    }
     static WebDriver driver;
     public static WebDriver getDriver(){
 
