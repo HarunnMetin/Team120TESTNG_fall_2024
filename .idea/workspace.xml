@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00334e43-e0cd-441e-96e7-0db3fedbd723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day17_TestNG_Framework_Assertion/C05_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeroAppPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day18_xmlFiles/C01_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlmFiles/istenenClasslariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlmFiles/istenenPackagelerinCalistirilmasi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C04_Assertions.test01">
+  <component name="RunManager" selected="TestNG.C:/Users/acer/Team120TESTNG_fall_2024/xlmFiles/istenenPackagelerinCalistirilmasi.xml">
     <configuration name="C01_ConfigurationPropertiesKullanimi.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
       <extension name="coverage">
@@ -90,35 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_QualityDemiNegatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/acer/Team120TESTNG_fall_2024/xlmFiles/istenenClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Day16_TestNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.Day16_TestNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.Day16_TestNG_framework.C05_QualityDemiNegatifLoginTesti" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xlmFiles/istenenClasslariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_QualityDemiNegatifLoginTesti.gecersizEmailTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/acer/Team120TESTNG_fall_2024/xlmFiles/istenenPackagelerinCalistirilmasi.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team120TESTNG_fall_2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Day16_TestNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.Day16_TestNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.Day16_TestNG_framework.C05_QualityDemiNegatifLoginTesti" />
-      <option name="METHOD_NAME" value="gecersizEmailTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xlmFiles/istenenPackagelerinCalistirilmasi.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -127,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/acer/Team120TESTNG_fall_2024/xlmFiles/istenenPackagelerinCalistirilmasi.xml" />
+        <item itemvalue="TestNG.C:/Users/acer/Team120TESTNG_fall_2024/xlmFiles/istenenClasslariCalistirma.xml" />
         <item itemvalue="TestNG.C04_Assertions.test01" />
         <item itemvalue="TestNG.C02_QualityDemyPozitifLoginTesti.qualityDemiPozitifLoginTesti" />
         <item itemvalue="TestNG.C01_ConfigurationPropertiesKullanimi.test01" />
-        <item itemvalue="TestNG.C05_QualityDemiNegatifLoginTesti" />
-        <item itemvalue="TestNG.C05_QualityDemiNegatifLoginTesti.gecersizEmailTesti" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,16 @@
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="istenenPackaegeleriCalistirma">
+    
+    <test name="day16 testleri">
+        
+        <packages>
+
+            <package name="tests.Day17_TestNG_Framework_Assertion"></package>
+        </packages>
+    </test>
+    
+    
+</suite>
