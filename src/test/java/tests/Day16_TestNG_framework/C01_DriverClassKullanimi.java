@@ -9,7 +9,7 @@ import static utulites.ReusableMethod.bekle;
 
 public class C01_DriverClassKullanimi {
 
-    @Test
+    @Test(groups = "smoke")
     public void amazonTest() throws InterruptedException {
 
 

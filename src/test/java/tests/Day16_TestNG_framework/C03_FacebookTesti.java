@@ -12,7 +12,7 @@ import static utulites.ReusableMethod.bekle;
 
 public class C03_FacebookTesti {
 
-    @Test
+    @Test(groups = "regrasyon")
     public void facebookTest(){
 
         //1 - https://www.facebook.com/ adresine gidin
